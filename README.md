@@ -26,12 +26,7 @@ The challenge was to predict **which chatbot response a human judge preferred**,
 ## 📦 Repo Structure
 
 ```bash
-📂 data/              # Raw and processed datasets
 📂 notebooks/         # Exploratory data analysis and experiments
-📂 models/            # Model architectures and training scripts
-📂 src/               # Core logic and helper functions
-📂 submissions/       # Final submission files
-📄 requirements.txt   # Project dependencies
 📄 README.md          # Project overview (this file)
 ```
 
