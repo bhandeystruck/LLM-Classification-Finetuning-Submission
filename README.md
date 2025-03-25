@@ -37,7 +37,7 @@ The challenge was to predict **which chatbot response a human judge preferred**,
 
 ---
 
-## 🧠 Our Approach
+## 🧠 The Approach
 
 - ✨ Fine-tuned transformer-based models on human preference data.
 - 🔍 Analyzed semantic similarities between responses.
