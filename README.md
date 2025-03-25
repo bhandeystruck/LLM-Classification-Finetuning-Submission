@@ -15,10 +15,10 @@
 
 ## 🚀 Project Summary
 
-This repository contains our solution for the **Chatbot Arena Preference Prediction** Kaggle competition.  
+This repository contains my solution for the **Chatbot Arena Preference Prediction** Kaggle competition.  
 The challenge was to predict **which chatbot response a human judge preferred**, given a prompt and two responses.
 
-> Our submission ranked **44th** on the public leaderboard out of hundreds of global teams 🌍.
+> The submission ranked **44th** on the public leaderboard out of hundreds of global teams 🌍.
 
 ---
 
